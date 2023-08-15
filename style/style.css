@@ -262,12 +262,11 @@ textarea {
 }
 
 #form-input {
-    color: #757575;
+    color: white;
     font-family: Open Sans;
     font-size: 16px;
     font-weight: 400;
     border: none;
     border-radius: 5px;
     width: 100%;
-    background-color: white;
 }
